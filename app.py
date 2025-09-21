@@ -237,7 +237,7 @@ with st.sidebar:
     """, unsafe_allow_html=True)
     
     st.markdown("""
-    This project explores the growing challenge of detecting AI-manipulated content. With the rise of deepfakes in misinformation, fraud, and social media, the system demonstrates how deep learning and signal processing techniques can help verify image authenticity.
+    This project explores the growing challenge of detecting AI manipulated content. With the rise of deepfakes in misinformation, fraud, and social media, the system demonstrates how deep learning and signal processing techniques can help verify image authenticity.
     
                 
     **Key Features:**
